@@ -20,8 +20,8 @@
 
 | 文件 | 给谁用 | 怎么用 |
 |---|---|---|
-| `Goren-1.0.0-macos-universal.dmg` | Mac（Intel 与 Apple Silicon 通用包） | 打开后把 Goren 拖进「应用程序」 |
-| `Goren-1.0.0-windows-x64.zip` | Windows 10 / 11（64 位） | 解压到任意文件夹，双击里面的 `Goren.exe` |
+| `Goren-1.0.1-macos-universal.dmg` | Mac（Intel 与 Apple Silicon 通用包） | 打开后把 Goren 拖进「应用程序」 |
+| `Goren-1.0.1-windows-x64.zip` | Windows 10 / 11（64 位） | 解压到任意文件夹，双击里面的 `Goren.exe` |
 
 ### Mac 第一次打开
 
@@ -38,6 +38,9 @@ xattr -dr com.apple.quarantine /Applications/Goren.app
 
 下载后**整个文件夹一起解压**，别只把 `Goren.exe` 单独拎出来（旁边的文件是它要用的）。
 如果弹蓝色"已保护你的电脑"，点「更多信息」→「仍要运行」。
+
+升级版本后如果图标还是旧的样子，那是 Windows 缓存了图标，不是包的问题 ——
+解压到一个新文件夹，或者注销一次再看。
 
 ## 第一次登录
 
