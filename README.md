@@ -20,7 +20,7 @@
 
 | 文件 | 给谁用 | 怎么用 |
 |---|---|---|
-| `Goren-1.0.4-macos-universal.dmg` | Mac（Intel 与 Apple Silicon 通用包） | 打开后把 Goren 拖进「应用程序」 |
+| `Goren-1.0.5-macos-universal.dmg` | Mac（Intel 与 Apple Silicon 通用包） | 打开后把 Goren 拖进「应用程序」 |
 | `Goren-1.0.4-windows-x64.zip` | Windows 10 / 11（64 位） | 解压到任意文件夹，双击里面的 `Goren.exe` |
 
 ### Mac 第一次打开
@@ -33,6 +33,9 @@
 ```bash
 xattr -dr com.apple.quarantine /Applications/Goren.app
 ```
+
+第一次连局域网里的 NAS，macOS 会问「Goren 想查找并连接到本地网络中的设备」，点**允许**就行；
+万一误点了拒绝，在「系统设置 → 隐私与安全性 → 本地网络」里把 Goren 打开。
 
 ### Windows 第一次打开
 
