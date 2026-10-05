@@ -24,7 +24,7 @@
 
 ![人物页](assets/screens/person.jpg)
 
-**搜索** —— 点一下右上角的放大镜原地展开，边打字边出结果。
+**搜索** —— 点左上角那颗放大镜（和 Goren 标志同一行）原地展开成输入框，边打字边出结果。
 
 ![搜索](assets/screens/search.jpg)
 
