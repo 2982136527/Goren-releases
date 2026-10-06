@@ -40,8 +40,8 @@
 
 | 文件 | 给谁用 | 怎么用 |
 |---|---|---|
-| `Goren-1.0.6-macos-universal.dmg` | Mac（Intel 与 Apple Silicon 通用包） | 打开后把 Goren 拖进「应用程序」 |
-| `Goren-1.0.6-windows-x64.zip` | Windows 10 / 11（64 位） | 解压到任意文件夹，双击里面的 `Goren.exe` |
+| `Goren-1.0.7-macos-universal.dmg` | Mac（Intel 与 Apple Silicon 通用包） | 打开后把 Goren 拖进「应用程序」 |
+| `Goren-1.0.7-windows-x64.zip` | Windows 10 / 11（64 位） | 解压到任意文件夹，双击里面的 `Goren.exe` |
 
 ### Mac 第一次打开
 
